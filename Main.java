@@ -5,5 +5,10 @@ public class Main {
         System.out.print("Это 2");
         System.out.print("Это 3");
         System.out.print("Это 4");
+        System.out.println("haloy");
+        System.out.println("haloy1");
+        System.out.println("haloy2");
+        System.out.println("haloy3");
+        System.out.println("haloy4");
     }
 }
